@@ -12,7 +12,7 @@ _No place left behind._
 ![Orbital HUD, a tracked live globe, FLIR terrain — then OPEN SOURCED](docs/media/hero-open-source-reveal.gif)
 
 <a href="https://www.youtube.com/@Deathsong-Frequency">
-  <img src="docs/media/youtube-popular-videos.png" alt="The God's Eye View video series on YouTube" width="100%">
+
 </a>
 
 ▶️ **From the Deathsong Frequency and DEATHSONG FREQUENCY channels
