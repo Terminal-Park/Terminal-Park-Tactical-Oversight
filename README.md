@@ -1,12 +1,12 @@
 <div align="left">
-
 # 👁 Terminal Park Tactical Oversight 
-
-![Orbital HUD, a tracked live globe, FLIR terrain — then OPEN SOURCED](docs/media/hero-open-source-reveal.gif)
 
 ▶️ **From the creator of the Deathsong Frequency & DEATHSONG FREQUENCY YouTube channels and github repos, dev logs and
 the JAMVERSE ECOSYSTEM, JAM HOUSE, 
 JAMGLYPHS and FORNICARCASS INDIE GAMES.
+
+![Orbital HUD, a tracked live globe, FLIR terrain — then OPEN SOURCED](docs/media/hero-open-source-reveal.gif)
+
 
 Terminal Park is a new mobile based hacker tool kit for mobile from mobile focused experimental research and development
 added to the exsisting tool kits included in DSF Corpus,dev/creator/editing/generation/AI 
