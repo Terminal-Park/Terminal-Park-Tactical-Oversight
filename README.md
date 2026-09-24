@@ -1,9 +1,8 @@
 <div align="center">
 
-# 🌐 God's Eye View
+# 🌐 Terminal Park Tactical 
 
-[![CI](https://github.com/bilawalsidhu/gods-eye-view/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/bilawalsidhu/gods-eye-view/actions/workflows/ci.yml) [![Reached #1 on GitHub Trending](https://img.shields.io/badge/%231_GitHub_Trending-thank_you!-F0A63C?style=flat-square&logo=github)](https://x.com/bilawalsidhu/status/2093798887815348521)
-
+[![CI] [![Reached #1 on GitHub Trending]
 ### A spy-satellite simulator in your browser — then you realize the sources are public and the data is real.
 
 Photorealistic 3D globe. Live aircraft, ships, satellites, earthquakes, traffic, and public cameras. Hands-free voice control powered by a realtime AI agent.
@@ -12,7 +11,7 @@ _No place left behind._
 
 ![Orbital HUD, a tracked live globe, FLIR terrain — then OPEN SOURCED](docs/media/hero-open-source-reveal.gif)
 
-<a href="https://www.youtube.com/@bilawalsidhu">
+<a href="https://www.youtube.com/@Deathsong-Frequency">
   <img src="docs/media/youtube-popular-videos.png" alt="The God's Eye View video series on YouTube" width="100%">
 </a>
 
@@ -102,7 +101,7 @@ app's **POWER UP** panel; [Keys & Costs](#-api-keys) explains the options.
 ### Path 1 — One click, no terminal
 
 1. Install or update [Pinokio](https://desktop.pinokio.co/) to **8.2 or later**.
-2. Open [God's Eye View in Pinokio](https://pinokio.co/apps/github-com-bilawalsidhu-gods-eye-view).
+2. Open [God's Eye View in Pinokio](https://pinokio.co/apps/github-com-Terminal-Park-Tactical).
 3. Click **Install**, then **Start**.
 
 Available on **Windows, macOS, and Linux**. The Pinokio maintainer reports
@@ -556,7 +555,7 @@ One heads-up from the inside: build in this space for a week and you learn that 
 
 <div align="center">
 
-▶️ [Watch the God's Eye View series](https://youtube.com/playlist?list=PL6qSg2I-7_koPbDnSMo0QeeHX_RknA2uv&si=nBGYMoHWQw41v93Q) · 📬 [Map the World](https://maptheworld.ai/) — the newsletter behind the project
+▶️ [Watch the God's Eye View series](https://youtube.com/playlist?list=PL6qSg2I-7_koPbDnSMo0QeeHX_RknA2uv&si=nBGYMoHWQw41v93Q) · 📬 [Map the World](https://deathsong-frequency.github.io/DSF/) — the newsletter behind the project
 
 **🌐 God's Eye View. No place left behind.**
 
