@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌐👁 Terminal Park Tactical Oversight 
+# 👁 Terminal Park Tactical Oversight 🌎
 
 ▶️ **From the creator of the Deathsong Frequency and DEATHSONG FREQUENCY YouTube channels with a new mobile hacker tool kit 
 added to the exsisting tool kits included in DSF Corpus,dev/creator/editing/generation/AI 
