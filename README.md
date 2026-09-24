@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌐 Terminal Park Tactical 
+# 🌐 Terminal Park Tactical Oversight
 
 [![CI] [![Reached #1 on GitHub Trending]
 ### A spy-satellite simulator in your browser — then you realize the sources are public and the data is real.
@@ -15,7 +15,7 @@ _No place left behind._
   <img src="docs/media/youtube-popular-videos.png" alt="The God's Eye View video series on YouTube" width="100%">
 </a>
 
-▶️ **From the project behind the viral God's Eye View series** _(formerly WorldView)_ — [5M+ on YouTube](https://youtube.com/playlist?list=PL6qSg2I-7_koPbDnSMo0QeeHX_RknA2uv&si=nBGYMoHWQw41v93Q) · [25M+ across socials](https://www.google.com/search?q=god%27s+eye+view)
+▶️ **From the Deathsong Frequency and DEATHSONG FREQUENCY channels
 
 🏆 **Reached #1 on GitHub Trending, daily and weekly · August 2026**
 
