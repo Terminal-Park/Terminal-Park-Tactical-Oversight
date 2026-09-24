@@ -4,7 +4,7 @@
 
 ▶️ **From the creator of the Deathsong Frequency & DEATHSONG FREQUENCY YouTube channels and github repos, dev logs and
 the JAMVERSE ECOSYSTEM, JAM HOUSE, 
-JAMGLYPHS and FORNICARCASS INDIE GAMES.
+JAMGLYPHS and FORNICARCASS INDIE GAMES comes the newest expansion with real world tools based off the world and character bibles keeping true to the William Deathsong narratives.   
 
 ![Orbital HUD, a tracked live globe, FLIR terrain — then OPEN SOURCED](docs/media/hero-open-source-reveal.gif)
 
