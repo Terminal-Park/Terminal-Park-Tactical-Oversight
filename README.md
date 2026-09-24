@@ -2,6 +2,8 @@
 
 # 👁 Terminal Park Tactical Oversight 
 
+![Orbital HUD, a tracked live globe, FLIR terrain — then OPEN SOURCED](docs/media/hero-open-source-reveal.gif)
+
 ▶️ **From the creator of the Deathsong Frequency & DEATHSONG FREQUENCY YouTube channels and github repos, dev logs and
 the JAMVERSE ECOSYSTEM, JAM HOUSE, 
 JAMGLYPHS and FORNICARCASS INDIE GAMES.
@@ -17,13 +19,10 @@ Photorealistic 3D globe. Live aircraft, ships, satellites, earthquakes, traffic,
 
 _No place left behind._
 
-![Orbital HUD, a tracked live globe, FLIR terrain — then OPEN SOURCED](docs/media/hero-open-source-reveal.gif)
 
 <a href="https://www.youtube.com/@Deathsong-Frequency">
 
 </a>
-
-▶️ **From the Deathsong Frequency and DEATHSONG FREQUENCY channels
 
 🏆 **Reached #1 on GitHub Trending, daily and weekly · August 2026**
 
