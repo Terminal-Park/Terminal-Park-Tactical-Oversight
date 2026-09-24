@@ -3,7 +3,9 @@
   
 # 👁 Terminal Park Tactical Oversight 
 
-▶️ **From the creator of the Deathsong Frequency & DEATHSONG FREQUENCY YouTube channels. Terminal Park is a new mobile based hacker tool kit for mobile from mobile focused experimental research and development
+▶️ **From the creator of the Deathsong Frequency & DEATHSONG FREQUENCY YouTube channels and github repos, dev logs and the JAMVERSE ECOSYSTEM, JAM HOUSE, JAMGLYPHS and FORNICARCASS INDIE GAMES.
+
+Terminal Park is a new mobile based hacker tool kit for mobile from mobile focused experimental research and development
 added to the exsisting tool kits included in DSF Corpus,dev/creator/editing/generation/AI 
 
 William Barbeau (Deathsong Frequency) 
